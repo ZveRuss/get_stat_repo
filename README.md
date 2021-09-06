@@ -15,7 +15,7 @@
 [branch] - анализируемая ветка
 
 # Пример
-python get_repo_info.py --url=https://github.com/WillKoehrsen/Data-Analysis --date_begin=2007-03-06T12:00:00Z --date_end=2020-01-01-01T00:00:00Z --branch=master
+python get_stat_repo.py --url=https://github.com/WillKoehrsen/Data-Analysis --date_begin=2007-03-06T12:00:00Z --date_end=2020-01-01-01T00:00:00Z --branch=master
 
 Лог ошибок ведется в error.log
 
